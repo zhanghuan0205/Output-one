@@ -1,0 +1,23 @@
+ @charset "UTF-8";
+.box{width:800px;height:800px;margin: 100px auto 0;}
+.startCon{width:550px;height:40px;border: 2px solid #FF0000;}
+.startBtn{
+	width:200px;
+	height:42px;
+	font:bolder 20px '黑体';
+	margin-left: 20px;
+	background-color: #FF0000;
+	color: rgb(255,255,255);
+}
+.inBox{
+    width: 800px;
+    height: 700px;
+    line-height: 1.5;
+    letter-spacing: 0.3em;
+    margin: 20px auto;
+    padding: 0 10px;
+    background: -webkit-repeating-linear-gradient(0deg, rgba(255, 20, 8, 0.8) 5px, rgba(255,255,255,0.9) 0px,rgba(255,255,255,0.9) 38px,rgba(255, 20, 8, 0.8) 40px);
+    background: -moz-repeating-linear-gradient(0deg,rgba(255, 20, 8, 0.8) 5px,rgba(255,255,255,0.9) 0px,rgba(255,255,255,0.9)  38px,rgba(255, 20, 8, 0.8) 40px);
+    background: -ms-repeating-linear-gradient(0deg,rgba(255, 20, 8, 0.8) 5px,rgba(255,255,255,0.9) 0px,rgba(255,255,255,0.9)  38px,rgba(255, 20, 8, 0.8) 40px);
+    background: repeating-linear-gradient(0deg,rgba(255, 20, 8, 0.8) 5px,rgba(255,255,255,0.9) 0px,rgba(255,255,255,0.9)  38px,rgba(255, 20, 8, 0.8) 40px);
+}
