@@ -7,7 +7,9 @@
 	font:bolder 20px '黑体';
 	margin-left: 20px;
 	background-color: #FF0000;
-	color: rgb(255,255,255);
+	color:rgb(255,255,255);
+    /*color:rgb(255,255,255);*/
+
 }
 .inBox{
     width: 800px;
